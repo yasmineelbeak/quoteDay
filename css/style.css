@@ -1,0 +1,13 @@
+
+:root{
+    --main-bg-color:#97BE5A;
+    --secendary-bg-color:#2A629A;
+}
+button {
+   background-color: var(--main-bg-color);
+   transition: hover 1s;
+}
+ button:hover{
+    background-color:var(--secendary-bg-color) ;
+    
+}
